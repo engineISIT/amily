@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>101.200.173.33:8306/app/Amily.ipa</string>
+		            <string>https://raw.githubusercontent.com/engineISIT/amily/master/Amily.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.amilyiOS.appv</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.13</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>AMILY 生活更精致</string>
+				<string>AMILY 生活更美好</string>
 				<key>title</key>
-				<string>精致生活从AMILY开始</string>
+				<string>AMILY精彩生活</string>
 			</dict>
 		</dict>
 	</array>
